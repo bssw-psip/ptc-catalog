@@ -19,4 +19,4 @@
 
 ## Comments
 
-1. (Building Connections and Community within an Institution)[https://bssw.io/blog_posts/building-connections-and-community-within-an-institution]
+1. [Building Connections and Community within an Institution](https://bssw.io/blog_posts/building-connections-and-community-within-an-institution)
