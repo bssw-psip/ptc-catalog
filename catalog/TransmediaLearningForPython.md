@@ -27,7 +27,6 @@
 | 4 | Master Python Commands with Flashcards for iOS (link). |
 | 5 | Customize further learning with TLF process (link). |
 
-
 # Comments
 1. To complete the actions on this progress tracking card (PTC) please see https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar018
 
