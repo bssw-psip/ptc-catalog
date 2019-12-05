@@ -3,7 +3,7 @@ name: Card Submission
 about: This is a template for contributor's to submit progress tracking cards of their
   own via GitHub Issues.
 title: PTC Recommendation
-labels: ''
+labels: 'new ptc'
 assignees: ''
 
 ---
