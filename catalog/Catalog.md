@@ -1,3 +1,8 @@
+# PTC Catalog
+
+The table below lists the currently available Progress Tracking Cards (PTCs)
+with brief descriptions of their goals.
+
 Title|Goal(s)
 :---|:---
 [Agile Adoption][1]|Team begins with Kanban and adopts additional processes in response to specific team needs.
