@@ -1,11 +1,12 @@
 # Licensing Your Software
 
-**Target**: Selecting and Implementing a License for your Software.
+## Target
 
+Selecting and Implementing a License for your Software.
 
-**User Story**: As a contributor to a software package, I want to ensure that our work has an appropriate software license associated with it so that users and new contributors will understand how the intellectual property is managed.
+## User Story
 
-
+As a contributor to a software package, I want to ensure that our work has an appropriate software license associated with it so that users and new contributors will understand how the intellectual property is managed.
 
 ## Card(s)
 
