@@ -1,10 +1,14 @@
 # Adopting Consistent Coding Standards
 
-**Target**: Steadily convert the codebase over to an agreed-upon standard.
+## Target
 
-**User Story**: As a person responsible for software quality and correctness for my project, I want guidance on selecting and implementing coding standards so that we can make our code easy for everyone to read and understand.
+Steadily convert the codebase over to an agreed-upon standard.
 
-**User Story**: As a software developer on a project that has a defined coding standard, I want tool support so that I am complying with the standards with minimal additional effort or ambiguity.
+## User Stories
+
+As a person responsible for software quality and correctness for my project, I want guidance on selecting and implementing coding standards so that we can make our code easy for everyone to read and understand.
+
+As a software developer on a project that has a defined coding standard, I want tool support so that I am complying with the standards with minimal additional effort or ambiguity.
 
 ## Card(s)
 
