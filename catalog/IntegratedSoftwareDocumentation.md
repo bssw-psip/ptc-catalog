@@ -1,8 +1,12 @@
 # Integrated Software Documentation
 
-**Target**: Ensure that the user/developer documentation is fully integrated with the associated software.
+## Target
 
-**User Story**: As a user (developer of software in this case), I want it to be easy to update documentation as I 
+Ensure that the user/developer documentation is fully integrated with the associated software.
+
+## User Story
+
+As a user (developer of software in this case), I want it to be easy to update documentation as I 
 update the software the documentation describes. Typically, this means I want the software and documentation to be 
 in the same place (e.g. repository). By easily, I mean handling things like images, in-line code, equations and cross 
 references are a) possible and b) the same processes to manage changes to the code also works for the documentation. 
