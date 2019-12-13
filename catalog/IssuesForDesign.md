@@ -1,6 +1,8 @@
 # Using Issues on GitHub/GitLab for Design and Development
 
-**User Story**: As a software engineer I want my small team to use issues for developing new modules and capabilities so that we can keep track of design ideas and implementations.
+## User Story
+
+As a software engineer I want my small team to use issues for developing new modules and capabilities so that we can keep track of design ideas and implementations.
 
 ## Card(s)
 
