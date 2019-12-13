@@ -1,8 +1,12 @@
 # Transitioning to Git Revision Control
 
-**Target**: Transition to using Git for revision control and basic Git usage.
+## Target
 
-**User Story**: As a software engineer I want to use Git revision control, so that the team is able to achieve consistent productivity.
+Transition to using Git for revision control and basic Git usage.
+
+## User Story
+
+As a software engineer I want to use Git revision control, so that the team is able to achieve consistent productivity.
 
 ## Card
 
