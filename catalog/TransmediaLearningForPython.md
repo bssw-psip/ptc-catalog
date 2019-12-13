@@ -1,9 +1,12 @@
 # Transmedia Learning Framework for Python
 
-**Target**: Learn Python enough to more efficiently recall functionality on demand.
+## Target
 
-**User Story**: As a casual user of Python I want more Python tutorials and tips so that it becomes easier for me to recall functionality.
+Learn Python enough to more efficiently recall functionality on demand.
 
+## User Story
+
+As a casual user of Python I want more Python tutorials and tips so that it becomes easier for me to recall functionality.
 
 ## Card(s)
 
