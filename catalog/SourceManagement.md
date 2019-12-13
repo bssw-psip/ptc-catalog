@@ -1,6 +1,8 @@
 # Source Management
 
-**Target**: Use Source Management System (SMS).
+## Target
+
+Use Source Management System (SMS).
 
 ## Card(s)
 
