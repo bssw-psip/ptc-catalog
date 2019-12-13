@@ -1,10 +1,12 @@
 # Continuous Integration
 
-**Target**: Testing is run at appropriate times without human involvement and reports are direct and concise.
+## Target
 
+Testing is run at appropriate times without human involvement and reports are direct and concise.
 
-**User Story**: As a person responsible for software quality and correctness for my project, I want code regularly tested so that regressions are guarded against and new code is tested against itself and other commits the developer might not have had.
+## User Story
 
+As a person responsible for software quality and correctness for my project, I want code regularly tested so that regressions are guarded against and new code is tested against itself and other commits the developer might not have had.
 
 ## Card(s)
 
