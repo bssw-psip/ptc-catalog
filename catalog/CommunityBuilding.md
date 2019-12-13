@@ -1,9 +1,12 @@
 # Build a Local Community of Practice
 
-**Target**: Build a local community around your software project.
+## Target
 
-**User Story**: As an individual software contributor I want to build a community so that I can network and share projects and ideas.
+Build a local community around your software project.
 
+## User Story
+
+As an individual software contributor I want to build a community so that I can network and share projects and ideas.
 
 ## Card(s)
 
