@@ -1,8 +1,12 @@
 # Test Driven Development
 
-**Target**: Team transitions from a traditional development process to a test driven development process.
+## Target
 
-**User Story**: As a project leader, I want a development team to transition from a development process where minimal 
+Team transitions from a traditional development process to a test driven development process.
+
+## User Story
+
+As a project leader, I want a development team to transition from a development process where minimal 
 testing is done or tests are added *after* implementing new functionality, to a TDD process so that team productivity 
 will be improved.
 
