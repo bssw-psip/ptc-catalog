@@ -1,8 +1,12 @@
 # Agile Adoption
 
-**Target**: Team begins with Kanban and adopts additional processes in response to specific team needs.
+## Target
 
-**User Story**: As a project leader, I have heard of teams that have adopted Agile workflows and significant success, and others that have had a very negative experience. Therefore, I want to capture the advantages of Agile without wasting time on unnecessary overhead so that I can improve the productivity of my team.
+Team begins with Kanban and adopts additional processes in response to specific team needs.
+
+## User Story
+
+As a project leader, I have heard of teams that have adopted Agile workflows and significant success, and others that have had a very negative experience. Therefore, I want to capture the advantages of Agile without wasting time on unnecessary overhead so that I can improve the productivity of my team.
 
 
 ## Card
