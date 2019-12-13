@@ -1,9 +1,12 @@
 # Transmedia Learning Framework for Git
 
-**Target**: Learn Git enough to more efficiently recall functionality on demand.
+## Target
 
-**User Story**: As a casual user of Git I want more Git tutorials and tips so that it becomes easier for me to recall functionality.
+Learn Git enough to more efficiently recall functionality on demand.
 
+## User Story
+
+As a casual user of Git I want more Git tutorials and tips so that it becomes easier for me to recall functionality.
 
 ## Card(s)
 
