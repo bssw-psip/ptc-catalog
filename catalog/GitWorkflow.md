@@ -6,7 +6,7 @@ Transition from a basic Git workflow to a collaborative workflow that supports t
 
 ## User Story
 
-As a developer, I want to be able to transition from a basic Git work to a collaborative workflow 
+As a developer, I want to be able to transition from a basic Git workflow to a collaborative workflow 
 so that all code changes are peer-reviewed and tested. 
 
 ## Card
@@ -25,4 +25,3 @@ so that all code changes are peer-reviewed and tested.
 - Automated testing is testing branches within Github/Gitlab in isolation
 - The term "merge request" can be used interchangeably with "pull request"
 - Steps 4 & 5 can be done in either order
-
