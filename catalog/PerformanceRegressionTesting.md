@@ -27,5 +27,5 @@ performance, to detect negative or positive changes.
 - Measurements can include wall clock time, resource utilization, cache performance, scalability, correctness, 
 and others. The choice of measurements will inform the test(s) that need to be written.
 - A performance test should be able to be checked relatively easily yet it is one that also exercises the code adequately.
-- Bonus steps in this PTC might include repeating these steps to support a another use case, set of measurements, 
+- Additional steps in this PTC might include repeating these steps to support another use case, set of measurements, 
 and/or more tests.
