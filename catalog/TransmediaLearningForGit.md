@@ -31,4 +31,4 @@ As a casual user of Git I want more Git tutorials and tips so that it becomes ea
 | 5 | Customize further learning with TLF process (link). |
 
 ## Comments
-1. [On-demand Learning for Better Scientific Software: How to Use Resources & Technology to Optimize your Productivity](https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar018)
+1. See [On-demand Learning for Better Scientific Software: How to Use Resources & Technology to Optimize your Productivity](https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar018) for details on the framework used in these progress tracking cards.
