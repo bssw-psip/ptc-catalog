@@ -16,8 +16,8 @@ As a project lead, I want to increase my project visibility, so that my project 
 | 1 | Team has identified and defined what "ideal" project visibility would look like<sup>1</sup>. |
 | 2 | Team has developed and implemented an initial set of communication mechanisms<sup>2</sup>.  |
 | 3 | A communication plan has been developed and rolled out<sup>3</sup>. |
-| 4 | An active social media presence has been established. |
-| 5 | Communication plan is reviewed by team on a regular basis and improvements and/or updates implemented and documented. |
+| 4 | An active social media presence has been established<sup>4</sup>. |
+| 5 | Communication plan is reviewed by team on a regular basis and improvements and/or updates implemented and documented<sup>5</sup>. |
 
 ## Comments
 
