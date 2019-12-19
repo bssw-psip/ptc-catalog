@@ -33,4 +33,4 @@ As a software developer on a project that has a defined coding standard, I want 
 
 ## Comments
 
-[Rinku] Why are we limiting it to 75%. Recommend doing 30%, 60%, 100%
+Percentages used in Variant B may reflect number of lines in the code, team expertise for understanding and documenting code, timeline for this PTC and several other factors. When the team considers a task completed in the last step will vary from team to team.
