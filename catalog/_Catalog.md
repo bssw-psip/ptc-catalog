@@ -1,4 +1,4 @@
-# PTC Catalog
+# PTC Catalog Table of Contents
 
 The table below lists the currently available Progress Tracking Cards (PTCs)
 with brief descriptions of their goals.
