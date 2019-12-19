@@ -27,8 +27,10 @@ As a software developer on a project that has a defined coding standard, I want 
 | 0 | No code (intentionally) complies with the standard. |
 | 1 | All new code that is written is required to be compliant with the standard.      |
 | 2 | All changes to existing code are required to be compliant with the standard.      |
-| 3 | 25% of remaining pre-standard code has been refactored to comply with the standard.      |
-| 4 | 50% of remaining pre-standard code has been refactored to comply with the standard.     |
-| 5 | 75% or more remaining pre-standard code has been refactored to comply with the standard. |
+| 3 | 30% of remaining pre-standard code has been refactored to comply with the standard.      |
+| 4 | 60% of remaining pre-standard code has been refactored to comply with the standard.     |
+| 5 | 100% or more remaining pre-standard code has been refactored to comply with the standard. |
 
 ## Comments
+
+[Rinku] Why are we limiting it to 75%. Recommend doing 30%, 60%, 100%
