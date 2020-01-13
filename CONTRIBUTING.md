@@ -21,8 +21,20 @@ Thank you for your willingness to contribute additional progress tracking cards 
 ![Submit New Issue](assets/submit_new_issue.png)
 
 
-## How to Submit a PTC as a Pull Request (TODO)
+## How to Submit a PTC as a Pull Request
 
-1. Fork the catalog.
-2. Create a new file for their card (from a template).
-3. Create a PR back to the catalog.
+1. Create a fork of the PTC catalog repository.
+
+![Create a Fork](assets/fork_button.png)
+
+2. On the Fork, in the catalog directory, create a new file for your card.
+
+![Select Create New File](assets/create_file_button.png)
+
+Copy and paste the content of your card into the dialog box. The file should have a descriptive name with the markdown extension (e.g. SoftwareLicensing.md, PerformanceRegressionTesting.md). Commit the new file to the fork.
+
+![Write and Commit the PTC](assets/create_ptc_file.png)
+
+
+
+3. Follow [these instructions](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to create a pull request from the fork.
