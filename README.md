@@ -1,4 +1,4 @@
-<img src="https://github.com/bssw-psip/ptc-catalog/blob/master/psip_logo.png" width="300">
+<img src="./psip_logo.png" width="300">
 
 # PSIP Progress Tracking Card Catalog
 
