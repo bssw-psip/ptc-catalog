@@ -11,6 +11,7 @@ As a casual user of Python I want more Python tutorials and tips so that it beco
 ## Card(s)
 
 ### Variant A: How will I measure when I have achieved my desired result?
+
 | Score         | Description |
 | :-------------: | :------------- |
 | 0 | No Transmedia Learning Framework (TLF) for Python. |
@@ -21,6 +22,7 @@ As a casual user of Python I want more Python tutorials and tips so that it beco
 | 5 | Continuing by curating new content to customize additional learning using the TLF. |
 
 ### Variant B: What are the steps (tasks) I need to accomplish to achieve my goal?
+
 | Score         | Description |
 | :-------------: | :------------- |
 | 0 | Agree to Use Transmedia Learning Framework (TLF) for python in tutorial (link). |
@@ -32,5 +34,3 @@ As a casual user of Python I want more Python tutorials and tips so that it beco
 
 # Comments
 1. To complete the actions on this progress tracking card (PTC) and learn more about the TLF framework see https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar018
-
-

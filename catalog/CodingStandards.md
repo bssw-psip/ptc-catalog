@@ -13,6 +13,7 @@ As a software developer on a project that has a defined coding standard, I want 
 ## Card(s)
 
 ### Variant A: How will I measure when I have achieved my desired result?
+
 | Score         | Description |
 | :-------------: | :------------- |
 | 0 | No coding standard adopted. |
@@ -22,6 +23,7 @@ As a software developer on a project that has a defined coding standard, I want 
 | 4 | Tool support has been put in place to help ensure compliance, and running the tool is made part of contribution guidelines.     |
 
 ### Variant B: What are the steps (tasks) I need to accomplish to achieve my goal?
+
 | Score         | Description |
 | :-------------: | :------------- |
 | 0 | No code (intentionally) complies with the standard. |

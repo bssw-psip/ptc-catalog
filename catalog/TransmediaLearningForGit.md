@@ -11,6 +11,7 @@ As a casual user of Git I want more Git tutorials and tips so that it becomes ea
 ## Card(s)
 
 ### Variant A: How will I measure when I have achieved my desired result?
+
 | Score         | Description |
 | :-------------: | :------------- |
 | 0 | No Transmedia Learning Framework (TLF) for Git. |
@@ -21,6 +22,7 @@ As a casual user of Git I want more Git tutorials and tips so that it becomes ea
 | 5 | Continuing by curating new content to customize additional learning using the TLF. |
 
 ### Variant B: What are the steps (tasks) I need to accomplish to achieve my goal?
+
 | Score         | Description |
 | :-------------: | :------------- |
 | 0 | Agree to Use Transmedia Learning Framework (TLF) for Git in tutorial (link). |
