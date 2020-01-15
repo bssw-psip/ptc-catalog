@@ -7,7 +7,7 @@ labels: 'new ptc'
 assignees: ''
 ---
 
-# Your Name Here
+# Practice Title Here
 
 <!-- 
 Suggest a short name that covers the topic of your card (like "Unit Testing"). 
