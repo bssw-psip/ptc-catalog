@@ -1,3 +1,22 @@
+<head>
+<script language="javascript">
+window.onload=function(){
+var inputs = document.getElementsByClassName('survey'),
+    total  = document.getElementById('survey-total');
+
+ for (var i=0; i < inputs.length; i++) {
+    inputs[i].onchange = function() {
+        var add = this.value * (this.checked ? 1 : -1);
+        total.innerHTML = parseFloat(total.innerHTML) + add
+        var new_total = parseFloat(document.getElementById('input').value);
+      console.log(new_total);
+        document.getElementById('input').value=new_total + add
+    }
+  }
+}
+</script>
+</head>
+
 # Rate Your Project Survey
 
 Brought you by the [IDEAS-ECP project](https://ideas-productivity.org) and the [PSIP Development Team](https://bssw.io/psip).
@@ -48,76 +67,78 @@ If you and your team would like assistance from a PSIP IDEAS-ECP facilitator in 
 
 1.  Revision Control
 
-    - <input type="checkbox"> Uses revision control system such as Git
-    - <input type="checkbox"> Uses a basic development workflow (e.g., basic Git workflow)
-    - <input type="checkbox"> Uses an advanced development workflow (e.g., Gitflow)
+    - <input type="checkbox" class="survey" value="1"> Uses revision control system such as Git
+    - <input type="checkbox" class="survey" value="10"> Uses a basic development workflow (e.g., basic Git workflow)
+    - <input type="checkbox" class="survey" value="100"> Uses an advanced development workflow (e.g., Gitflow)
 
 2.  Code Reviews
 
-    - <input type="checkbox"> Ad-hoc code reviews
-    - <input type="checkbox"> Regular code reviews (e.g., weekly meetings)
-    - <input type="checkbox"> Code reviews automated in workflow (e.g., via pull requests)
+    - <input type="checkbox" class="survey" value="1"> Ad-hoc code reviews
+    - <input type="checkbox" class="survey" value="10"> Regular code reviews (e.g., weekly meetings)
+    - <input type="checkbox" class="survey" value="100"> Code reviews automated in workflow (e.g., via pull requests)
 
 3.  Issue Tracking
 
-    - <input type="checkbox"> Manual issue tracking via email or other medium
-    - <input type="checkbox"> Dedicated issue tracking system being used
-    - <input type="checkbox"> Integrated issue tracking  (e.g., pull requests)
+    - <input type="checkbox" class="survey" value="1"> Manual issue tracking via email or other medium
+    - <input type="checkbox" class="survey" value="10"> Dedicated issue tracking system being used
+    - <input type="checkbox" class="survey" value="100"> Integrated issue tracking  (e.g., pull requests)
 
 4.  Deployment
 
-    - <input type="checkbox"> Manual deployment using a script
-    - <input type="checkbox"> Deployment as part of development workflow with manual intervention
-    - <input type="checkbox"> Continuous deployment
+    - <input type="checkbox" class="survey" value="1"> Manual deployment using a script
+    - <input type="checkbox" class="survey" value="10"> Deployment as part of development workflow with manual intervention
+    - <input type="checkbox" class="survey" value="100"> Continuous deployment
 
 5.  Documentation
 
-    - <input type="checkbox"> Ad-hoc text files
-    - <input type="checkbox"> Code and documentation are cross referenced and updated when committed to repository
-    - <input type="checkbox"> Integrated with the package release workflow
+    - <input type="checkbox" class="survey" value="1"> Ad-hoc text files
+    - <input type="checkbox" class="survey" value="10"> Code and documentation are cross referenced and updated when committed to repository
+    - <input type="checkbox" class="survey" value="100"> Integrated with the package release workflow
 
 ### Better Planning
 
 1.  Development Process
 
-    - <input type="checkbox"> Has development process but it is based on ad-hoc rules
-    - <input type="checkbox"> Employs an iterative development process
-    - <input type="checkbox"> Uses an agile development methodology
+    - <input type="checkbox" class="survey" value="1"> Has development process but it is based on ad-hoc rules
+    - <input type="checkbox" class="survey" value="10"> Employs an iterative development process
+    - <input type="checkbox" class="survey" value="100"> Uses an agile development methodology
 
 2.  Due Diligence
 
-    - <input type="checkbox"> Formal guidelines for accepting contributions
-    - <input type="checkbox"> Clearly defined standards for coding and documentation
-    - <input type="checkbox"> Provenance and license checking for contributions
+    - <input type="checkbox" class="survey" value="1"> Formal guidelines for accepting contributions
+    - <input type="checkbox" class="survey" value="10"> Clearly defined standards for coding and documentation
+    - <input type="checkbox" class="survey" value="100"> Provenance and license checking for contributions
 
 3.  Software Design
 
-    - <input type="checkbox"> Development guidelines include design in the process
-    - <input type="checkbox"> A modeling language is employed for key aspects of the project
-    - <input type="checkbox"> Visual modeling using a graphical representation to capture design
+    - <input type="checkbox" class="survey" value="1"> Development guidelines include design in the process
+    - <input type="checkbox" class="survey" value="10"> A modeling language is employed for key aspects of the project
+    - <input type="checkbox" class="survey" value="100"> Visual modeling using a graphical representation to capture design
 
 4.  Onboarding
 
-    - <input type="checkbox"> Initial onboarding process is documented
-    - <input type="checkbox"> Used for supervisors for new hires
-    - <input type="checkbox"> Used for all personnel changes
+    - <input type="checkbox" class="survey" value="1"> Initial onboarding process is documented
+    - <input type="checkbox" class="survey" value="10"> Used for supervisors for new hires
+    - <input type="checkbox" class="survey" value="100"> Used for all personnel changes
 
 5.  Requirements Analysis
 
-    - <input type="checkbox"> Development guidelines include requirements gathering
-    - <input type="checkbox"> Formal requirements gathering is undertaken as part of the project
-    - <input type="checkbox"> Requirements management process is employed
+    - <input type="checkbox" class="survey" value="1"> Development guidelines include requirements gathering
+    - <input type="checkbox" class="survey" value="10"> Formal requirements gathering is undertaken as part of the project
+    - <input type="checkbox" class="survey" value="100"> Requirements management process is employed
 
 ### Better Reliability
 
 1.  Testing
 
-    - <input type="checkbox"> Comparison used to create system-level no-change tests
-    - <input type="checkbox"> Unit testing for refactored and new code
-    - <input type="checkbox"> Continuous integration
+    - <input type="checkbox" class="survey" value="1"> Comparison used to create system-level no-change tests
+    - <input type="checkbox" class="survey" value="10"> Unit testing for refactored and new code
+    - <input type="checkbox" class="survey" value="100"> Continuous integration
 
 2.  Reproducibility
 
-    - <input type="checkbox"> Publication of code
-    - <input type="checkbox"> Inclusion of data when code is published
-    - <input type="checkbox"> Automatic provenance capture system is employed
+    - <input type="checkbox" class="survey" value="1"> Publication of code
+    - <input type="checkbox" class="survey" value="10"> Inclusion of data when code is published
+    - <input type="checkbox" class="survey" value="100"> Automatic provenance capture system is employed
+
+### Score <span id="survey-total" style="text-decoration:underline;">0</span>
