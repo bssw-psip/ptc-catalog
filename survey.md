@@ -8,13 +8,15 @@ Software engineering is a systematic approach to the design, development, and ma
 
 ### Key Objectives of Software Engineering
 
-Maintainability := Should be able to evolve to meet changing requirements
-Correctness := Correctly implements the user requirements
-Adaptability := Can be changed to adapt to new system or user constraints
-Reusability := Modules can be readily reused to develop new software products
-Testability := Should be testable with minimal effort
-Portability := Can be cost effectively transferred from one computer system to another
-Reliability := Should be able to perform its desired function over an arbitrary time period
+Objective | Description
+:--------:|:-----------
+Maintainability | Should be able to evolve to meet changing requirements
+Correctness | Correctly implements the user requirements
+Adaptability | Can be changed to adapt to new system or user constraints
+Reusability | Modules can be readily reused to develop new software products
+Testability | Should be testable with minimal effort
+Portability | Can be cost effectively transferred from one computer system to another
+Reliability | Should be able to perform its desired function over an arbitrary time period
 
 ### How Does Your Team Score?
 
@@ -32,84 +34,90 @@ Score | Description
 
 Regardless of your score, there is always room for improvement. One way to improve your project’s practices is to look at a software improvement strategy, such as the Productivity and Sustainability Improvement Planning (PSIP). PSIP is a lightweight process that uses Progress Tracking Cards (PTCs) to track the improvements you are making. For more information, see <https://bssw.io/psip>.
 
+If you and your team would like assistance from a PSIP IDEAS-ECP facilitator in rating your project, starting PSIP, and creating a project tracking card (PTC), contact us at https://bssw.io/contact.
+
+<div style='page-break-after:always'></div>
+
 ## Project Self-Survey
 
 The form below shows a range of practices that increase in maturity. Check the practices that your project already uses, score each basic practice as 1 point, intermediate as 10 points and advanced as 100 points. Write the score in the box below.
+
+If you and your team would like assistance from a PSIP IDEAS-ECP facilitator in rating your project, starting PSIP, and creating a project tracking card (PTC), contact us at https://bssw.io/contact.
 
 ### Better Development
 
 1.  Revision Control
 
-    -   [ ] Uses revision control system such as Git
-    -   [ ] Uses a basic development workflow (e.g., basic Git workflow)
-    -   [ ] Uses an advanced development workflow (e.g., Gitflow)
+    - <input type="checkbox"> Uses revision control system such as Git
+    - <input type="checkbox"> Uses a basic development workflow (e.g., basic Git workflow)
+    - <input type="checkbox"> Uses an advanced development workflow (e.g., Gitflow)
 
 2.  Code Reviews
 
-    -   [ ] Ad-hoc code reviews
-    -   [ ] Regular code reviews (e.g., weekly meetings)
-    -   [ ] Code reviews automated in workflow (e.g., via pull requests)
+    - <input type="checkbox"> Ad-hoc code reviews
+    - <input type="checkbox"> Regular code reviews (e.g., weekly meetings)
+    - <input type="checkbox"> Code reviews automated in workflow (e.g., via pull requests)
 
 3.  Issue Tracking
 
-    -   [ ] Manual issue tracking via email or other medium
-    -   [ ] Dedicated issue tracking system being used
-    -   [ ] Integrated issue tracking  (e.g., pull requests)
+    - <input type="checkbox"> Manual issue tracking via email or other medium
+    - <input type="checkbox"> Dedicated issue tracking system being used
+    - <input type="checkbox"> Integrated issue tracking  (e.g., pull requests)
 
 4.  Deployment
 
-    -   [ ] Manual deployment using a script
-    -   [ ] Deployment as part of development workflow with manual intervention
-    -   [ ] Continuous deployment
+    - <input type="checkbox"> Manual deployment using a script
+    - <input type="checkbox"> Deployment as part of development workflow with manual intervention
+    - <input type="checkbox"> Continuous deployment
 
 5.  Documentation
 
-    -   [ ] Ad-hoc text files
-    -   [ ] Code and documentation are cross referenced and updated when committed to repository
-    -   [ ] Integrated with the package release workflow
+    - <input type="checkbox"> Ad-hoc text files
+    - <input type="checkbox"> Code and documentation are cross referenced and updated when committed to repository
+    - <input type="checkbox"> Integrated with the package release workflow
 
 ### Better Planning
 
 1.  Development Process
 
-    -   [ ] Has development process but it is based on ad-hoc rules
-    -   [ ] Employs an iterative development process
-    -   [ ] Uses an agile development methodology
+    - <input type="checkbox"> Has development process but it is based on ad-hoc rules
+    - <input type="checkbox"> Employs an iterative development process
+    - <input type="checkbox"> Uses an agile development methodology
 
 2.  Due Diligence
 
-    -   [ ] Formal guidelines for accepting contributions
-    -   [ ] Clearly defined standards for coding and documentation
-    -   [ ] Provenance and license checking for contributions
+    - <input type="checkbox"> Formal guidelines for accepting contributions
+    - <input type="checkbox"> Clearly defined standards for coding and documentation
+    - <input type="checkbox"> Provenance and license checking for contributions
 
 3.  Software Design
 
-    -   [ ] Development guidelines include design in the process
-    -   [ ] A modeling language is employed for key aspects of the project
-    -   [ ] Visual modeling using a graphical representation to capture design
+    - <input type="checkbox"> Development guidelines include design in the process
+    - <input type="checkbox"> A modeling language is employed for key aspects of the project
+    - <input type="checkbox"> Visual modeling using a graphical representation to capture design
 
 4.  Onboarding
 
-    -   [ ] Initial onboarding process is documented
-    -   [ ] Used for supervisors for new hires
-    -   [ ] Used for all personnel changes
+    - <input type="checkbox"> Initial onboarding process is documented
+    - <input type="checkbox"> Used for supervisors for new hires
+    - <input type="checkbox"> Used for all personnel changes
 
 5.  Requirements Analysis
 
-    -   [ ] Development guidelines include requirements gathering
-    -   [ ] Formal requirements gathering is undertaken as part of the project
-    -   [ ] Requirements management process is employed
+    - <input type="checkbox"> Development guidelines include requirements gathering
+    - <input type="checkbox"> Formal requirements gathering is undertaken as part of the project
+    - <input type="checkbox"> Requirements management process is employed
 
 ### Better Reliability
 
 1.  Testing
 
-    -   [ ] Comparison used to create system-level no-change tests
-    -   [ ] Unit testing for refactored and new code
-    -   [ ] Continuous integration
+    - <input type="checkbox"> Comparison used to create system-level no-change tests
+    - <input type="checkbox"> Unit testing for refactored and new code
+    - <input type="checkbox"> Continuous integration
 
 2.  Reproducibility
 
-    -   [ ] Publication of code
-    -   [ ] Inclusion of data when code is published
-    -   [ ] Automatic provenance capture system is employed
+    - <input type="checkbox"> Publication of code
+    - <input type="checkbox"> Inclusion of data when code is published
+    - <input type="checkbox"> Automatic provenance capture system is employed
