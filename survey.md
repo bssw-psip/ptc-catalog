@@ -142,3 +142,5 @@ If you and your team would like assistance from a PSIP IDEAS-ECP facilitator in 
     - <input type="checkbox" class="survey" value="100"> Automatic provenance capture system is employed
 
 ### Score <span id="survey-total" style="text-decoration:underline;">0</span>
+
+*Be sure to print this page out for your records!* We do not save your data in any way.
