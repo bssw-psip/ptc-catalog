@@ -69,79 +69,79 @@ If you and your team would like assistance from a PSIP IDEAS-ECP facilitator in 
 
 1.  Revision Control
 
-    - <input type="checkbox" class="survey" value="1"> Uses revision control system such as Git
-    - <input type="checkbox" class="survey" value="10"> Uses a basic development workflow (e.g., basic Git workflow)
-    - <input type="checkbox" class="survey" value="100"> Uses an advanced development workflow (e.g., Gitflow)
+    - <input type="checkbox" class="survey" value="1"> Uses revision control system such as Git [1 point]
+    - <input type="checkbox" class="survey" value="10"> Uses a basic development workflow (e.g., basic Git workflow) [10 points]
+    - <input type="checkbox" class="survey" value="100"> Uses an advanced development workflow (e.g., Gitflow) [100 points]
 
 2.  Code Reviews
 
-    - <input type="checkbox" class="survey" value="1"> Ad-hoc code reviews
-    - <input type="checkbox" class="survey" value="10"> Regular code reviews (e.g., weekly meetings)
-    - <input type="checkbox" class="survey" value="100"> Code reviews automated in workflow (e.g., via pull requests)
+    - <input type="checkbox" class="survey" value="1"> Ad-hoc code reviews [1 point]
+    - <input type="checkbox" class="survey" value="10"> Regular code reviews (e.g., weekly meetings) [10 points]
+    - <input type="checkbox" class="survey" value="100"> Code reviews automated in workflow (e.g., via pull requests) [100 points]
 
 3.  Issue Tracking
 
-    - <input type="checkbox" class="survey" value="1"> Manual issue tracking via email or other medium
-    - <input type="checkbox" class="survey" value="10"> Dedicated issue tracking system being used
-    - <input type="checkbox" class="survey" value="100"> Integrated issue tracking  (e.g., pull requests)
+    - <input type="checkbox" class="survey" value="1"> Manual issue tracking via email or other medium [1 point]
+    - <input type="checkbox" class="survey" value="10"> Dedicated issue tracking system being used [10 points]
+    - <input type="checkbox" class="survey" value="100"> Integrated issue tracking  (e.g., pull requests) [100 points]
 
 4.  Deployment
 
-    - <input type="checkbox" class="survey" value="1"> Manual deployment using a script
-    - <input type="checkbox" class="survey" value="10"> Deployment as part of development workflow with manual intervention
-    - <input type="checkbox" class="survey" value="100"> Continuous deployment
+    - <input type="checkbox" class="survey" value="1"> Manual deployment using a script [1 point]
+    - <input type="checkbox" class="survey" value="10"> Deployment as part of development workflow with manual intervention [10 points]
+    - <input type="checkbox" class="survey" value="100"> Continuous deployment [100 points]
 
 5.  Documentation
 
-    - <input type="checkbox" class="survey" value="1"> Ad-hoc text files
-    - <input type="checkbox" class="survey" value="10"> Code and documentation are cross referenced and updated when committed to repository
-    - <input type="checkbox" class="survey" value="100"> Integrated with the package release workflow
+    - <input type="checkbox" class="survey" value="1"> Ad-hoc text files [1 point]
+    - <input type="checkbox" class="survey" value="10"> Code and documentation are cross referenced and updated when committed to repository [10 points]
+    - <input type="checkbox" class="survey" value="100"> Integrated with the package release workflow [100 points]
 
 ### Better Planning
 
 1.  Development Process
 
-    - <input type="checkbox" class="survey" value="1"> Has development process but it is based on ad-hoc rules
-    - <input type="checkbox" class="survey" value="10"> Employs an iterative development process
-    - <input type="checkbox" class="survey" value="100"> Uses an agile development methodology
+    - <input type="checkbox" class="survey" value="1"> Has development process but it is based on ad-hoc rules [1 point]
+    - <input type="checkbox" class="survey" value="10"> Employs an iterative development process [10 points]
+    - <input type="checkbox" class="survey" value="100"> Uses an agile development methodology [100 points]
 
 2.  Due Diligence
 
-    - <input type="checkbox" class="survey" value="1"> Formal guidelines for accepting contributions
-    - <input type="checkbox" class="survey" value="10"> Clearly defined standards for coding and documentation
-    - <input type="checkbox" class="survey" value="100"> Provenance and license checking for contributions
+    - <input type="checkbox" class="survey" value="1"> Formal guidelines for accepting contributions [1 point]
+    - <input type="checkbox" class="survey" value="10"> Clearly defined standards for coding and documentation [10 points]
+    - <input type="checkbox" class="survey" value="100"> Provenance and license checking for contributions [100 points]
 
 3.  Software Design
 
-    - <input type="checkbox" class="survey" value="1"> Development guidelines include design in the process
-    - <input type="checkbox" class="survey" value="10"> A modeling language is employed for key aspects of the project
-    - <input type="checkbox" class="survey" value="100"> Visual modeling using a graphical representation to capture design
+    - <input type="checkbox" class="survey" value="1"> Development guidelines include design in the process [1 point]
+    - <input type="checkbox" class="survey" value="10"> A modeling language is employed for key aspects of the project [10 points]
+    - <input type="checkbox" class="survey" value="100"> Visual modeling using a graphical representation to capture design [100 points]
 
 4.  Onboarding
 
-    - <input type="checkbox" class="survey" value="1"> Initial onboarding process is documented
-    - <input type="checkbox" class="survey" value="10"> Used for supervisors for new hires
-    - <input type="checkbox" class="survey" value="100"> Used for all personnel changes
+    - <input type="checkbox" class="survey" value="1"> Initial onboarding process is documented [1 point]
+    - <input type="checkbox" class="survey" value="10"> Used for supervisors for new hires [10 points]
+    - <input type="checkbox" class="survey" value="100"> Used for all personnel changes [100 points]
 
 5.  Requirements Analysis
 
-    - <input type="checkbox" class="survey" value="1"> Development guidelines include requirements gathering
-    - <input type="checkbox" class="survey" value="10"> Formal requirements gathering is undertaken as part of the project
-    - <input type="checkbox" class="survey" value="100"> Requirements management process is employed
+    - <input type="checkbox" class="survey" value="1"> Development guidelines include requirements gathering [1 point]
+    - <input type="checkbox" class="survey" value="10"> Formal requirements gathering is undertaken as part of the project [10 points]
+    - <input type="checkbox" class="survey" value="100"> Requirements management process is employed [100 points]
 
 ### Better Reliability
 
 1.  Testing
 
-    - <input type="checkbox" class="survey" value="1"> Comparison used to create system-level no-change tests
-    - <input type="checkbox" class="survey" value="10"> Unit testing for refactored and new code
-    - <input type="checkbox" class="survey" value="100"> Continuous integration
+    - <input type="checkbox" class="survey" value="1"> Comparison used to create system-level no-change tests [1 point]
+    - <input type="checkbox" class="survey" value="10"> Unit testing for refactored and new code [10 points]
+    - <input type="checkbox" class="survey" value="100"> Continuous integration [100 points]
 
 2.  Reproducibility
 
-    - <input type="checkbox" class="survey" value="1"> Publication of code
-    - <input type="checkbox" class="survey" value="10"> Inclusion of data when code is published
-    - <input type="checkbox" class="survey" value="100"> Automatic provenance capture system is employed
+    - <input type="checkbox" class="survey" value="1"> Publication of code [1 point]
+    - <input type="checkbox" class="survey" value="10"> Inclusion of data when code is published [10 points]
+    - <input type="checkbox" class="survey" value="100"> Automatic provenance capture system is employed [100 points]
 
 ### Score <span id="survey-total" style="text-decoration:underline;">0</span>
 
