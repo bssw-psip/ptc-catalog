@@ -53,7 +53,7 @@ Score | Description
 
 Regardless of your score, there is always room for improvement. One way to improve your project’s practices is to look at a software improvement strategy, such as the Productivity and Sustainability Improvement Planning (PSIP). PSIP is a lightweight process that uses Progress Tracking Cards (PTCs) to track the improvements you are making. For more information, see <https://bssw.io/psip>.
 
-If you and your team would like assistance from a PSIP IDEAS-ECP facilitator in rating your project, starting PSIP, and creating a project tracking card (PTC), contact us at https://bssw.io/contact.
+If you and your team would like assistance from a PSIP IDEAS-ECP facilitator in rating your project, starting PSIP, and creating a project tracking card (PTC), contact us at <https://bssw.io/contact>.
 
 <div style='page-break-after:always'></div>
 
@@ -61,7 +61,7 @@ If you and your team would like assistance from a PSIP IDEAS-ECP facilitator in 
 
 The form below shows a range of practices that increase in maturity. Check the practices that your project already uses, score each basic practice as 1 point, intermediate as 10 points and advanced as 100 points. Write the score in the box below.
 
-If you and your team would like assistance from a PSIP IDEAS-ECP facilitator in rating your project, starting PSIP, and creating a project tracking card (PTC), contact us at https://bssw.io/contact.
+If you and your team would like assistance from a PSIP IDEAS-ECP facilitator in rating your project, starting PSIP, and creating a project tracking card (PTC), contact us at <https://bssw.io/contact>.
 
 ### Better Development
 
