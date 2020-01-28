@@ -1,4 +1,6 @@
 # PTC Catalog Table of Contents
+[![Gitter](https://badges.gitter.im/bssw-psip/community.svg)](https://gitter.im/bssw-psip/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 
  The table below lists the currently available Progress Tracking Cards (PTCs) with a brief description of their goals.
 
