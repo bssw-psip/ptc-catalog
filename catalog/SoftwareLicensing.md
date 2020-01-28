@@ -21,7 +21,7 @@ As a contributor to a software package, I want to ensure that our work has an ap
 <sup>1</sup> [Managing Copyright](http://softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html)
 
 ## Comments
-1. [Introduction to Software Licensing](https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar024)
+1. [Introduction to Software Licensing](http://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar024)
 1. GitHub and probably other on-line Git collaboration services has special support for [licenses in repositories](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository).
 
 

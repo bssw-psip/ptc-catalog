@@ -33,4 +33,4 @@ As a casual user of Python I want more Python tutorials and tips so that it beco
 | 5 | Customize further learning with TLF process (link). |
 
 # Comments
-1. To complete the actions on this progress tracking card (PTC) and learn more about the TLF framework see https://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar018
+1. To complete the actions on this progress tracking card (PTC) and learn more about the TLF framework see  [On-demand Learning for Better Scientific Software: How to Use Resources & Technology to Optimize your Productivity](http://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar018).
