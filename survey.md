@@ -51,9 +51,11 @@ Score | Description
 
 ### Where To Go Next?
 
-Regardless of your score, there is always room for improvement. One way to improve your project’s practices is to look at a software improvement strategy, such as the Productivity and Sustainability Improvement Planning (PSIP). PSIP is a lightweight process that uses Progress Tracking Cards (PTCs) to track the improvements you are making. For more information, see <https://bssw.io/psip>.
+Regardless of your score, there is always room for improvement. One way to improve your project’s practices is to look at a software improvement strategy, such as the Productivity and Sustainability Improvement Planning (PSIP). PSIP is a lightweight process that uses Progress Tracking Cards (PTCs) to track the improvements you are making. Some PTCs related to the survey items can be found on the [Survey PTC Index Page](survey-ptcs.md).
 
-If you and your team would like assistance from a PSIP IDEAS-ECP facilitator in rating your project, starting PSIP, and creating a project tracking card (PTC), contact us at <https://bssw.io/contact>.
+For more information, see <https://bssw.io/psip>.
+
+If you and your team would like assistance from a PSIP IDEAS-ECP facilitator in rating your project, starting PSIP, and creating a project tracking card (PTC), [contact us](https://docs.google.com/forms/d/e/1FAIpQLSdcQxb158piJeBqELZmJFkJTOFx71WBNBChtec5f21kyvPiCg/viewform).
 
 <div style='page-break-after:always'></div>
 
