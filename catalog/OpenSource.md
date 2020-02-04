@@ -8,6 +8,8 @@ Software with source code that anyone can inspect, modify, and enhance.
 
 As a software developer I want to make my project open source so that I can engage with the broader community
 
+## Card
+
 | Score | Description |
 |:-----:|:------------|
 | 0 | Releases are available as a packaged / pre-built binary. Code is not open source. |
