@@ -37,8 +37,6 @@ Testability | Should be testable with minimal effort
 Portability | Can be cost effectively transferred from one computer system to another
 Reliability | Should be able to perform its desired function over an arbitrary time period
 
-<div style='page-break-after:always'></div>
-
 ### How Does Your Team Score?
 
 Use the following survey to rate your team practices.
