@@ -24,3 +24,4 @@
 | [Transitioning to Git Revision Control](TransitionToGitRevisionControl.md) | Transition to using Git for revision control and basic Git usage. | 
 | [Transmedia Learning Framework for Git](TransmediaLearningForGit.md) | Learn Git enough to more efficiently recall functionality on demand. | 
 | [Transmedia Learning Framework for Python](TransmediaLearningForPython.md) | Learn Python enough to more efficiently recall functionality on demand. | 
+| [End-user Documentation](UserDocumentation.md) | Create end-user documentation for a software project | 
