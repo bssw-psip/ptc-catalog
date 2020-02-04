@@ -63,7 +63,7 @@ If you and your team would like assistance from a PSIP IDEAS-ECP facilitator in 
 
 The form below shows a range of practices that increase in maturity. Check the practices that your project already uses, score each basic practice as 1 point, intermediate as 10 points and advanced as 100 points. Write the score in the box below.
 
-If you and your team would like assistance from a PSIP IDEAS-ECP facilitator in rating your project, starting PSIP, and creating a project tracking card (PTC), contact us at <https://bssw.io/contact>.
+If you and your team would like assistance from a PSIP IDEAS-ECP facilitator in rating your project, starting PSIP, and creating a project tracking card (PTC), contact us at <https://bssw.io/psip>.
 
 ### Better Development
 
