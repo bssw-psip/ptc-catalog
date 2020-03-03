@@ -22,6 +22,7 @@
 | [Integrated Software Documentation](IntegratedSoftwareDocumentation.md) | Ensure that the user/developer documentation is fully integrated with the associated software. | 
 | [Using Issues on GitHub/GitLab for Design and Development](IssuesForDesign.md) |  | 
 | [Onboarding A New Team Member](OnboardingANewTeamMember.md) | Create an onboarding process for new team members. | 
+| [Tracking and Adjusting to Progress in Peer Projects](PeerProgress.md) | According as circumstances are favorable, one should modify one's plans. (Sun Tzu) | 
 | [Performance Regression Testing](PerformanceRegressionTesting.md) | To develop test suites that exercise performance capabilities and plans for how to make practical use of that performance data. | 
 | [Licensing Your Software](SoftwareLicensing.md) | Selecting and Implementing a License for your Software. | 
 | [Source Management](SourceManagement.md) | Use Source Management System (SMS). | 
