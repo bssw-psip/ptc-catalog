@@ -22,3 +22,5 @@ As a software engineer I want to incorporate regular performance testing into my
 ## Related Cards
 
 - The [Performance Regression Testing Card](PerformanceRegressionTesting.md) has details on developing a performance regression tests itself.
+
+**This card originally proposed by [Boyana Norris](https://github.com/brnorris03)**
