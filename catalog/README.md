@@ -23,6 +23,7 @@
 | [Using Issues on GitHub/GitLab for Design and Development](IssuesForDesign.md) |  | 
 | [Multi-System Performance Testing](MultiSystemPerformanceTesting.md) | Regular, automated testing at on all target platforms. | 
 | [Onboarding A New Team Member](OnboardingANewTeamMember.md) | Create an onboarding process for new team members. | 
+| [Open Source](OpenSource.md) | Software with source code that anyone can inspect, modify, and enhance. | 
 | [Tracking and Adjusting to Progress in Peer Projects](PeerProgress.md) | According as circumstances are favorable, one should modify one's plans. (Sun Tzu) | 
 | [Performance Regression Testing](PerformanceRegressionTesting.md) | To develop test suites that exercise performance capabilities and plans for how to make practical use of that performance data. | 
 | [Licensing Your Software](SoftwareLicensing.md) | Selecting and Implementing a License for your Software. | 
