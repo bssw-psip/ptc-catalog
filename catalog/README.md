@@ -16,6 +16,7 @@
 | [Build a Local Community of Practice](CommunityBuilding.md) | Build a local community around your software project. | 
 | [Continuous Integration](ContinuousIntegration.md) | Testing is run at appropriate times without human involvement and reports are direct and concise. | 
 | [Developer Documentation](DeveloperDocumentation.md) |  Create documentation for use by the developers of a software project | 
+| [Using Epics in Jira for Tracking and Collaboration](EpicsForTracking.md) |  | 
 | [Evaluate and Use an Issue Tracker](EvaluateAndUseAnIssueTracker.md) |  | 
 | [Adopt A Git Workflow that Supports Testing and Peer-review](GitWorkflow.md) | Transition from a basic Git workflow to a collaborative workflow that supports testing and peer-review. | 
 | [Improving Project Visibility: Using a Communication Plan](ImprovingProjectVisibility.md) | Improve a project's visibility to the community | 
