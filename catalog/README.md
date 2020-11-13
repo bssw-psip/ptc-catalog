@@ -30,6 +30,9 @@
 | [Performance Regression Testing](PerformanceRegressionTesting.md) | To develop test suites that exercise performance capabilities and plans for how to make practical use of that performance data. | 
 | [Licensing Your Software](SoftwareLicensing.md) | Selecting and Implementing a License for your Software. | 
 | [Source Management](SourceManagement.md) | Use Source Management System (SMS). | 
+| [THG Coding Standards](THGCodingStandards.md) | Steadily convert the codebase over to an agreed-upon stand. | 
+| [THG GitHub Migration](THGGitHubMigration.md) | Transition from a collaborative Git workflow that supports only non-CI testing to one that supports low-cost CI testing and is transparent to community contributors. | 
+| [THG Reference Manual](THGReferenceManual.md) | Create end-user documentation for the HDF5 library. | 
 | [Test Coverage](TestCoverage.md) |  | 
 | [Test Driven Development](TestDrivenDevelopment.md) | Team transitions from a traditional development process to a test driven development process. | 
 | [Transitioning to Git Revision Control](TransitionToGitRevisionControl.md) | Transition to using Git for revision control and basic Git usage. | 
