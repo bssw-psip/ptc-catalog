@@ -12,6 +12,7 @@
  |:-----:|:--------|
 | [Adopt Automated Correctness Testing in a Legacy Software Project](AdoptAutomatedCorrectnessTestingInLegacySoftwareProject.md) | Adoption of automated testing for a [legacy software project](https://bssw.io/items/working-effectively-with-legacy-code) that has no automated tests at the beginning (e.g., where testing is done manually or only tested against customer codes). | 
 | [Agile Adoption](AgileAdoption.md) | Team begins with Kanban and adopts additional processes in response to specific team needs. | 
+| [Algorithm Productization Checklist](AlgorithmProductization.md) | A VTK-m filter for ALPINE in situ algorithm users. | 
 | [Adopting Consistent Coding Standards](CodingStandards.md) | Steadily convert the codebase over to an agreed-upon standard. | 
 | [Build a Local Community of Practice](CommunityBuilding.md) | Build a local community around your software project. | 
 | [Continuous Integration](ContinuousIntegration.md) | Testing is run at appropriate times without human involvement and reports are direct and concise. | 
