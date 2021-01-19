@@ -1,6 +1,6 @@
 ---
 name: Card Submission
-about: This is a template for contributor's to submit progress tracking cards of their
+about: This is a template for contributors to submit progress tracking cards of their
   own via GitHub Issues.
 title: PTC Proposal
 labels: 'new ptc'
@@ -16,7 +16,7 @@ Suggest a short name that covers the topic of your card (like "Unit Testing").
 ## Target
 
 <!-- 
-Provide a brief description of the the goal (target) that a user is trying to reach with this card. 
+Provide a brief description of the goal (target) that a user is trying to reach with this card. 
 -->
 
 Your description here
