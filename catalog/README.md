@@ -16,6 +16,7 @@
 | [Adopting Consistent Coding Standards](CodingStandards.md) | Steadily convert the codebase over to an agreed-upon standard. | 
 | [Build a Local Community of Practice](CommunityBuilding.md) | Build a local community around your software project. | 
 | [Continuous Integration](ContinuousIntegration.md) | Testing is run at appropriate times without human involvement and reports are direct and concise. | 
+| [Creating Community Policies](CreatingCommunityPolicies.md) | Community software policies (and process for revisin over time) | 
 | [Developer Documentation](DeveloperDocumentation.md) |  Create documentation for use by the developers of a software project | 
 | [Using Epics in Jira for Tracking and Collaboration](EpicsForTracking.md) |  | 
 | [Evaluate and Use an Issue Tracker](EvaluateAndUseAnIssueTracker.md) |  | 
